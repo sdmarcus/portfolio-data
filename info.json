@@ -1,7 +1,14 @@
 {
   "name": "Sam Marcus",
   "phrase": "Creative storytelling and marketing with videography, photography, and social media.",
-  "logos": ["brownesportslogo.png", "brownlogo.png", "lab_logo.png", "brownmusiclogo.png", "holeinwall.png"],
+  "logos": [
+    { "src": "brownesportslogo.png", "title": "Brown Esports", "desc": "Vice President of External Affairs" },
+    { "src": "brownlogo.png", "title": "Brown University", "desc": "" },
+    { "src": "lab_logo.png", "title": "The Mind and Morality Lab", "desc": "Social Media Coordinator" },
+    { "src": "brownmusiclogo.png", "title": "Brown Music Department", "desc": "Photographer" },
+    { "src": "holeinwall.png", "title": "Hole in the Wall", "desc": "Placeholder role" },
+    { "src": "liberare.png", "title": "Liberare", "desc": "Social Media Video Intern" }
+  ],
   "bg": "background.jpg",
   "photos": {
     "desc": "Portrait, event and landscape photography",
