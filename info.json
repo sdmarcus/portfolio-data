@@ -1,0 +1,257 @@
+{
+  "name": "Sam Marcus",
+  "phrase": "Creative storytelling and marketing with videography, photography, and social media.",
+  "logos": ["brownesportslogo.png", "brownlogo.png", "lab_logo.png", "brownmusiclogo.png", "holeinwall.png"],
+  "bg": "background.jpg",
+  "photos": {
+    "desc": "Portrait, event and landscape photography",
+    "tech": [
+      "Canon EOS R6 Mark ii and Rebel T1i",
+      "Adobe Creative Suite",
+      "Currently employed at Brown University Music Department"
+    ],
+    "links": [
+      {
+        "src": "preview/cellodark.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/guitaroutside.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/glowbox.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/glowthingy.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/clarinet1.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/portraitalbum.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/thisguy.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/clarinet2.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/cello.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/nocello.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/conductorback.webp",
+        "category": "chorus"
+      },
+      {
+        "src": "preview/conductor.webp",
+        "category": "chorus"
+      },
+      {
+        "src": "preview/singer.webp",
+        "category": "chorus"
+      },
+      {
+        "src": "preview/road.webp",
+        "category": "landscape"
+      },
+      {
+        "src": "preview/lake.webp",
+        "category": "landscape"
+      },
+      {
+        "src": "preview/background.webp",
+        "category": "landscape"
+      },
+      {
+        "src": "preview/grandteton.webp",
+        "category": "landscape"
+      },
+      {
+        "src": "preview/trees.webp",
+        "category": "landscape"
+      },
+      {
+        "src": "preview/cool.webp",
+        "category": "landscape"
+      },
+      {
+        "src": "preview/safety.webp",
+        "category": "camp"
+      },
+      {
+        "src": "preview/zipline.webp",
+        "category": "camp"
+      },
+      {
+        "src": "preview/archery.webp",
+        "category": "camp"
+      },
+      {
+        "src": "preview/campthing.webp",
+        "category": "camp"
+      },
+      {
+        "src": "preview/archeryboy.webp",
+        "category": "camp"
+      },
+      {
+        "src": "preview/singingphone.webp",
+        "category": "camp"
+      },
+      {
+        "src": "preview/violinback.webp",
+        "category": "recital"
+      },
+      {
+        "src": "preview/recital1.webp",
+        "category": "recital"
+      },
+      {
+        "src": "preview/recital4.webp",
+        "category": "recital"
+      },
+      {
+        "src": "preview/recital5.webp",
+        "category": "recital"
+      },
+      {
+        "src": "preview/recital7.webp",
+        "category": "recital"
+      },
+      {
+        "src": "preview/recital8.webp",
+        "category": "recital"
+      },
+      {
+        "src": "preview/baton-4-29.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/blueshirt.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/bow-4-29.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/cello-4-29.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/fold-4-29.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/grass-4-29.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/greenshirt-4-29.webp",
+        "category": "portrait"
+      },
+      {
+        "src": "preview/mic-4-29.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/violin-4-29.webp",
+        "category": "actionportrait"
+      },
+      {
+        "src": "preview/violin2-4-29.webp",
+        "category": "actionportrait"
+      }
+    ],
+    "bg": "lake-compressed.jpg"
+  },
+  "videos": {
+    "desc": "Short films, documentaries, vlogs, short-form videos, advertisements",
+    "tech": [
+      "Sony FX3, Canon EOS R6 Mark ii",
+      "Adobe Creative Suite and Davinci Resolve",
+      "For short-form examples, see \"Social Media\""
+    ],
+    "links": [
+      "https://youtu.be/gKXJhxhAlR8",
+      "https://youtu.be/qOTIOQjsc1U",
+      "https://youtu.be/lARBVTTEhF4",
+      "https://youtu.be/Af8QlCos4v8",
+      "https://youtu.be/gtw7lRBIAGM",
+      "https://youtu.be/7RHuwDKG_lU",
+      "https://youtu.be/RtlISFg2yac",
+      "https://youtu.be/0o2nN_7WhvY",
+      "https://youtu.be/JEQ6t47TpC4",
+      "https://youtu.be/eu9Er3bOld0",
+      "https://youtu.be/5eBRDNon528"
+    ],
+    "bg": "grandteton.jpg"
+  },
+  "social": {
+    "desc": "Content strategy and growth",
+    "tech": [
+      "YouTube, Instagram, Tiktok, and Facebook",
+      "Adobe Creative Suite and Canva",
+      "For long-form examples, see \"Videos\""
+    ],
+    "blocks": [
+      {
+        "title": "Brown Esports",
+        "pts": [
+          "Vice President of External Affairs",
+          "Social media management and content strategy to promote club engagement",
+          "Focus on short-form video content"
+        ],
+        "url": "https://www.instagram.com/brown_esports/",
+        "bg": "brownesports.png"
+      },
+      {
+        "title": "Brown University Mind and Morality Lab",
+        "pts": [
+          "Short-form video and graphic image posts",
+          "Social media management",
+          "Communicating key information and engaging with specific professional audiences"
+        ],
+        "url": "https://www.instagram.com/mindmoralitylab/",
+        "bg": "lab_logo.png"
+      },
+      {
+        "title": "TapCraft",
+        "pts": [
+          "Minecraft YouTube shorts channel",
+          "Accumulated over 800,000 views during approximately three months of daily uploads"
+        ],
+        "url": "https://www.youtube.com/@TapCraftYT",
+        "bg": "/tapcraft.png"
+      }
+    ],
+    "bg": "cool-compressed.jpg"
+  },
+  "contact": {
+    "desc": "Interested in working with me? Let's get in touch!",
+    "links": [
+      {
+        "href": "mailto:samuel_marcus@brown.edu",
+        "url": "samuel_marcus@brown.edu"
+      },
+      {
+        "href": "https://www.linkedin.com/in/sam-marcus-78a5a22b0/",
+        "url": "linkedin.com/in/sam-marcus-78a5a22b0/"
+      }
+    ],
+    "bg": "iceland-compressed.jpg"
+  }
+}
