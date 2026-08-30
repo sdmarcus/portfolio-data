@@ -68,10 +68,6 @@
         "category": "landscape"
       },
       {
-        "src": "preview/archery.webp",
-        "category": "camp"
-      },
-      {
         "src": "preview/campthing.webp",
         "category": "camp"
       },
@@ -106,10 +102,6 @@
       {
         "src": "preview/bow-4-29.webp",
         "category": "actionportrait"
-      },
-      {
-        "src": "preview/fold-4-29.webp",
-        "category": "portrait"
       },
       {
         "src": "preview/grass-4-29.webp",
