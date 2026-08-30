@@ -181,6 +181,16 @@
         ],
         "url": "https://www.youtube.com/@TapCraftYT",
         "bg": "/tapcraft.png"
+      },
+      {
+        "title": "Liberare",
+        "pts": [
+          "Short-form and long-form video editing",
+          "Managing audience of over 300k across multiple platforms",
+          "Building a brand and audience, marketing and converting for sales"
+        ],
+        "url": "https://www.youtube.com/channel/UCfZ0giJ9-otQrcpFYE6GUlw",
+        "bg": "liberare.png"
       }
     ],
     "bg": "cool-compressed.jpg"
