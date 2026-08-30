@@ -24,10 +24,6 @@
         "category": "actionportrait"
       },
       {
-        "src": "preview/glowthingy.webp",
-        "category": "actionportrait"
-      },
-      {
         "src": "preview/clarinet1.webp",
         "category": "actionportrait"
       },
@@ -40,15 +36,7 @@
         "category": "portrait"
       },
       {
-        "src": "preview/clarinet2.webp",
-        "category": "portrait"
-      },
-      {
         "src": "preview/cello.webp",
-        "category": "portrait"
-      },
-      {
-        "src": "preview/nocello.webp",
         "category": "portrait"
       },
       {
@@ -57,10 +45,6 @@
       },
       {
         "src": "preview/conductor.webp",
-        "category": "chorus"
-      },
-      {
-        "src": "preview/singer.webp",
         "category": "chorus"
       },
       {
@@ -80,20 +64,8 @@
         "category": "landscape"
       },
       {
-        "src": "preview/trees.webp",
-        "category": "landscape"
-      },
-      {
         "src": "preview/cool.webp",
         "category": "landscape"
-      },
-      {
-        "src": "preview/safety.webp",
-        "category": "camp"
-      },
-      {
-        "src": "preview/zipline.webp",
-        "category": "camp"
       },
       {
         "src": "preview/archery.webp",
@@ -106,18 +78,6 @@
       {
         "src": "preview/archeryboy.webp",
         "category": "camp"
-      },
-      {
-        "src": "preview/singingphone.webp",
-        "category": "camp"
-      },
-      {
-        "src": "preview/violinback.webp",
-        "category": "recital"
-      },
-      {
-        "src": "preview/recital1.webp",
-        "category": "recital"
       },
       {
         "src": "preview/recital4.webp",
@@ -148,10 +108,6 @@
         "category": "actionportrait"
       },
       {
-        "src": "preview/cello-4-29.webp",
-        "category": "actionportrait"
-      },
-      {
         "src": "preview/fold-4-29.webp",
         "category": "portrait"
       },
@@ -165,10 +121,6 @@
       },
       {
         "src": "preview/mic-4-29.webp",
-        "category": "actionportrait"
-      },
-      {
-        "src": "preview/violin-4-29.webp",
         "category": "actionportrait"
       },
       {
