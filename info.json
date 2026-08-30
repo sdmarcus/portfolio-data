@@ -2,11 +2,31 @@
   "name": "Sam Marcus",
   "phrase": "Creative storytelling and marketing with videography, photography, and social media.",
   "logos": [
-    { "src": "brownesportslogo.png", "title": "Brown Esports", "desc": "Vice President of External Affairs" },
-    { "src": "brownlogo.png", "title": "Brown University", "desc": "" },
-    { "src": "lab_logo.png", "title": "The Mind and Morality Lab", "desc": "Social Media Coordinator" },
-    { "src": "brownmusiclogo.png", "title": "Brown Music Department", "desc": "Photographer" },
-    { "src": "liberare-big.png", "title": "Liberare", "desc": "Social Media Video Intern" }
+    {
+      "src": "brownesportslogo.png",
+      "title": "Brown Esports",
+      "desc": "Vice President of External Affairs"
+    },
+    {
+      "src": "brownlogo.png",
+      "title": "Brown University",
+      "desc": ""
+    },
+    {
+      "src": "lab_logo.png",
+      "title": "The Mind and Morality Lab",
+      "desc": "Social Media Coordinator"
+    },
+    {
+      "src": "brownmusiclogo.png",
+      "title": "Brown Music Department",
+      "desc": "Photographer"
+    },
+    {
+      "src": "liberare-big.png",
+      "title": "Liberare",
+      "desc": "Social Media Video Intern"
+    }
   ],
   "bg": "background.jpg",
   "photos": {
@@ -19,113 +39,159 @@
     "links": [
       {
         "src": "preview/cellodark.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 2
       },
       {
         "src": "preview/guitaroutside.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 2
       },
       {
         "src": "preview/glowbox.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 2
       },
       {
         "src": "preview/clarinet1.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 1
       },
       {
         "src": "preview/portraitalbum.webp",
-        "category": "portrait"
+        "category": "portrait",
+        "tier": 2
       },
       {
         "src": "preview/thisguy.webp",
-        "category": "portrait"
+        "category": "portrait",
+        "tier": 1
       },
       {
         "src": "preview/cello.webp",
-        "category": "portrait"
+        "category": "portrait",
+        "tier": 1
       },
       {
         "src": "preview/conductorback.webp",
-        "category": "chorus"
+        "category": "chorus",
+        "tier": 1
       },
       {
         "src": "preview/conductor.webp",
-        "category": "chorus"
+        "category": "chorus",
+        "tier": 2
       },
       {
         "src": "preview/road.webp",
-        "category": "landscape"
+        "category": "landscape",
+        "tier": 2
       },
       {
         "src": "preview/lake.webp",
-        "category": "landscape"
+        "category": "landscape",
+        "tier": 1
       },
       {
         "src": "preview/background.webp",
-        "category": "landscape"
+        "category": "landscape",
+        "tier": 2
       },
       {
         "src": "preview/grandteton.webp",
-        "category": "landscape"
+        "category": "landscape",
+        "tier": 1
       },
       {
         "src": "preview/cool.webp",
-        "category": "landscape"
+        "category": "landscape",
+        "tier": 2
       },
       {
         "src": "preview/campthing.webp",
-        "category": "camp"
+        "category": "camp",
+        "tier": 2
       },
       {
         "src": "preview/archeryboy.webp",
-        "category": "camp"
+        "category": "camp",
+        "tier": 2
       },
       {
         "src": "preview/recital4.webp",
-        "category": "recital"
+        "category": "recital",
+        "tier": 2
       },
       {
         "src": "preview/recital5.webp",
-        "category": "recital"
+        "category": "recital",
+        "tier": 2
       },
       {
         "src": "preview/recital7.webp",
-        "category": "recital"
+        "category": "recital",
+        "tier": 2
       },
       {
         "src": "preview/recital8.webp",
-        "category": "recital"
+        "category": "recital",
+        "tier": 1
       },
       {
         "src": "preview/baton-4-29.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 2
       },
       {
         "src": "preview/bow-4-29.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 1
       },
       {
         "src": "preview/grass-4-29.webp",
-        "category": "portrait"
+        "category": "portrait",
+        "tier": 1
       },
       {
         "src": "preview/greenshirt-4-29.webp",
-        "category": "portrait"
+        "category": "portrait",
+        "tier": 2
       },
       {
         "src": "preview/mic-4-29.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 2
       },
       {
         "src": "preview/violin2-4-29.webp",
-        "category": "actionportrait"
+        "category": "actionportrait",
+        "tier": 1
       },
-      { "src": "preview/AE9A2475.webp", "category": "actionportrait" },
-      { "src": "preview/watercliff.webp", "category": "landscape" },
-      { "src": "preview/treesonrock.webp", "category": "landscape" },
-      { "src": "preview/greenridge.webp", "category": "landscape" },
-      { "src": "preview/fishingsunset.webp", "category": "landscape" }
+      {
+        "src": "preview/AE9A2475.webp",
+        "category": "actionportrait",
+        "tier": 2
+      },
+      {
+        "src": "preview/watercliff.webp",
+        "category": "landscape",
+        "tier": 1
+      },
+      {
+        "src": "preview/treesonrock.webp",
+        "category": "landscape",
+        "tier": 2
+      },
+      {
+        "src": "preview/greenridge.webp",
+        "category": "landscape",
+        "tier": 1
+      },
+      {
+        "src": "preview/fishingsunset.webp",
+        "category": "landscape",
+        "tier": 2
+      }
     ],
     "bg": "lake-compressed.jpg"
   },
@@ -212,6 +278,36 @@
         "url": "linkedin.com/in/sam-marcus-78a5a22b0/"
       }
     ],
-    "bg": "iceland-compressed.jpg"
+    "bg": "iceland-compressed.jpg",
+    "photos": [
+      {
+        "src": "contact1.png",
+        "x": 60,
+        "y": 30,
+        "scale": 1.1,
+        "blurb": "Hi! I'm Sam, a junior at Brown University majoring in Digital Storytelling and Impact. Digital Storytelling and Impact uses video, photography, social media, and marketing campaigns to tell stories that emotionally connect with audiences and ethically shape their attitudes and behaviors."
+      },
+      {
+        "src": "contact2.png",
+        "x": 2,
+        "y": 50,
+        "scale": 1.15,
+        "blurb": "I've been creating and publishing content online for nearly seven years. I started my first YouTube channel making Minecraft videos with my friends in ninth grade, and have since grown into more deliberate, professional work. My strongest skills are video editing (Adobe Premiere Pro, Davinci Resolve, CapCut) and social media management (YouTube, Instagram, TikTok, Facebook). I also have over a year and a half of experience in event and portrait photography, working professionally for several clients. I actively seek out feedback on my work from clients, collaborators, and audiences—for me, revision is an essential part of the creative process, not a failure of it."
+      },
+      {
+        "src": "contact3.png",
+        "x": 52,
+        "y": 55,
+        "scale": 1.05,
+        "blurb": "I love my work because of the potential for impact on people around the world. My creative passions range from global issues (such as human rights) to lighthearted topics (such as outdoors/travel). With every project, my goal is to better the lives of those who see it, whether it's a year-long social media campaign or just a small photography job."
+      },
+      {
+        "src": "contact4.png",
+        "x": 40,
+        "y": 50,
+        "scale": 2,
+        "blurb": "Outside of work and school, my favorite thing to do is spend time outside. A 15 minute run here, a sunset there. When I have time, I'll escape to the mountains for a hike or camping trip. I also enjoy learning guitar and playing on Brown University's Club Quidditch Team."
+      }
+    ]
   }
 }
